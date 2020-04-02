@@ -1,3 +1,7 @@
+def i_am_testing(x):
+    return x**2
+
+
 def main():
     print("i'm main from page_loader")
 
