@@ -12,4 +12,4 @@ test:
 	@pytest
 
 test-coverage:
-	@pytest -- --coverage
+	@pytest
