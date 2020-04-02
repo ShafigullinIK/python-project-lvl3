@@ -12,4 +12,4 @@ test:
 	@pytest
 
 test-coverage:
-	./cc-test-reporter run -m pytest
+	@poetry run pytest --cov --cov-report xml
