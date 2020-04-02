@@ -1,0 +1,13 @@
+language: python
+python: 3.6.9
+
+before_install:
+    - pip install poetry
+    - pip install pytest
+
+install:
+    - make install
+
+script:
+    - make lint
+    
