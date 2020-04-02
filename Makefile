@@ -12,4 +12,4 @@ test:
 	@pytest
 
 test-coverage:
-	coverage run -m pytest
+	./cc-test-reporter run -m pytest
