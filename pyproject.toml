@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "shafigullinik_page_loader"
-version = "0.1.2"
+version = "0.1.3"
 description = ""
 authors = ["shafigullinik <shafigullin.ik@gmail.com>"]
 
@@ -15,7 +15,7 @@ page-loader = "page_loader.scripts.page_loader:main"
 python = "^3.6"
 
 [tool.poetry.dev-dependencies]
-flake8 = poetry add --dev flake8
+flake8 = "^3.7"
 
 [build-system]
 requires = ["poetry>=0.12"]
