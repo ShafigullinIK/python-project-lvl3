@@ -3,3 +3,4 @@ aliases
 dist/
 shafigullinik_page_loader.egg-info
 __pycache__
+.coverage

@@ -12,4 +12,4 @@ test:
 	@pytest
 
 test-coverage:
-	coverage run -m pytest pytest
+	coverage run -m pytest
