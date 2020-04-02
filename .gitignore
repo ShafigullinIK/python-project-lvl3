@@ -1,0 +1,4 @@
+.vscode/
+aliases
+dist/
+*.egg-info
