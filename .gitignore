@@ -1,4 +1,4 @@
 .vscode/
 aliases
 dist/
-*.egg-info
+shafigullinik_page_loader.egg-info
